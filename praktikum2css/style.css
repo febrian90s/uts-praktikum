@@ -1,13 +1,14 @@
-<head> 
-    <meta charset="UTF-8"> 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>Latihan</title> 
+p {
+    font-family: arial;
+    line-height: 2.75em;
+}
 
-    <style> 
-        .border-sample{ 
-            border:thin solid black;
-    }
+i {
+    font-family: arial;
+    color: orange;
+}
 
-    </style>
-</head>
+h1 {
+    font-family: arial;
+    color: #1B9CFC;
+}
