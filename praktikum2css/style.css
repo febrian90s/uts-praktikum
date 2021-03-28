@@ -3,8 +3,8 @@ p {
     line-height: 2.75em;
 }
 
-i {
-    font-family: arial;
+header {
+  font-family: 'Playfair Display', serif;
     color: orange;
 }
 
