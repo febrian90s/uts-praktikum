@@ -1,6 +1,13 @@
+body{
+	background:#ffa1c5;
+	color: white;
+}
 p {
     font-family: arial;
-    line-height: 2.75em;
+    line-height: 3.75em;
+}
+.pertama{
+    color : #ffffff;
 }
 
 header {
@@ -9,6 +16,15 @@ header {
 }
 
 h1 {
-    font-family: arial;
-    color: #1B9CFC;
+    font-family: 'Playfair Display', serif;
+    color: #ffffff;
 }
+section{
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 16px;
+    background-color: #ffffff;  
+}
+
+    
+
