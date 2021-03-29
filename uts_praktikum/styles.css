@@ -1,6 +1,6 @@
-*{
-    padding: 5;
-    margin: 5;
+header{
+    background: #dad8d8;
+    color: blue;
 }
 body{
     background: rgb(255, 255, 255);
@@ -27,11 +27,56 @@ h1{
 }
 section{
     margin-bottom: 20px;
-    padding: 15px;
+    padding: 20px;
     font-size: 16px;
     background-color: #dad8d8;
+    stroke-width: 0,5pt;
+    border-style:ridge;
+
+}
+.element1 {
+    position:absolute ;
+    right: 0;
+    top: 1200px;
+    width: 200px;
+    border: 1px solid #000;
+
+}
+.element2 {
+    position:absolute ;
+    right: 0;
+    top: 1200px;
+    width: 200px;
+    border: 1px solid #000;
+
+}
+.element3 {
+    position:absolute ;
+    left: 0;
+    top: 1200px;
+    width: 200px;
+    border: 1px solid #000;
+}
+.element4 {
+    position:absolute ;
+    left: 0;
+    top: 1200px;
+    width: 200px;
+    border: 1px solid #000;
+
+}
+.content{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+p{
+    margin-bottom: 10px;
 }
 
 footer{
     text-align: center;
+    background: #dad8d8;
+    color: black;
+    font-style: italicmenam;
 }
+
