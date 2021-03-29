@@ -1,8 +1,11 @@
 header{
+    font-family: 'Courier New', Courier, monospace;
     background: #dad8d8;
-    color: blue;
+    color:rgb(15, 109, 218);
+    padding: 20px 0;
 }
 body{
+    font-family: 'Montserrat', sans-serif;
     background: rgb(255, 255, 255);
     color: #000000;
 }
@@ -11,19 +14,20 @@ h1{
     color: #ffee00;
 }
 .urutan{
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serif;
     font-size: 15pt;
     color: #000000;
 }
 .urutan2{
-    font-family: Arial;
+    font-family:'Montserrat', sans-serif;
     font-size: 15pt;
     color: #000000;
 }
 .urutan3{
-    font-family: Arial;
+    font-family:'Montserrat', sans-serif;
     font-size: 15pt;
     color: #000000;
+   
 }
 section{
     margin-bottom: 20px;
@@ -76,7 +80,7 @@ p{
 footer{
     text-align: center;
     background: #dad8d8;
-    color: black;
-    font-style: italicmenam;
+    color: rgb(15, 109, 218);
+    padding: 20px 0;
 }
 
