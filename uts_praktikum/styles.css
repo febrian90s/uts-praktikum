@@ -36,7 +36,7 @@ h1{
     color: blue;
 }
 .container-2{
-    width: 800px;
+    max-width: 800px;
     margin: 25pt auto;
     display:flex;
     justify-content: space-between;
@@ -84,5 +84,9 @@ footer{
     width: 800px;
     margin: auto;
     font-size: 15px;
+}
+/*responsive*/
+@media(min-width : 600px){
+
 }
 
