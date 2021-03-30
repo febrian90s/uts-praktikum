@@ -48,18 +48,24 @@ h1{
     padding: 5px;
     box-sizing: border-box;
     
+    
 }
 .element.satu {
    background-color: #dad8d8; 
+   border-style: groove;
 }
 .element.dua {
     background-color: #dad8d8; 
+    border-style: groove;
 }
 .element.tiga {
     background-color: #dad8d8; 
+    border-style: groove;
 }
 .element.empat {
     background-color: #dad8d8; 
+    border-style: groove;
+
 }
 
 
@@ -87,6 +93,13 @@ footer{
 }
 /*responsive*/
 @media(min-width : 600px){
-
+    .container-2{
+        display:flex;
+        justify-content: space-between;
+      
+    }
+    .element{
+        width: 22;
+    }
 }
 
