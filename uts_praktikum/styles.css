@@ -32,15 +32,37 @@ h1{
     color: #000000;
    
 }
-section{
-    margin-bottom: 20px;
-    padding: 20px;
-    font-size: 16px;
-    background-color: #dad8d8;
-    stroke-width: 0,5pt;
-    border-style:ridge;
+.next{
+    color: blue;
+}
+.container-2{
+    width: 800px;
+    margin: 25pt auto;
+    display:flex;
+    justify-content: space-between;
+ 
+    
+}
+.element{
+    width: 25%;
+    padding: 5px;
+    box-sizing: border-box;
+    
+}
+.element.satu {
+   background-color: #c74848; 
 
 }
+.element.dua {
+    background-color: #dad8d8; 
+}
+.element.tiga {
+    background-color: #5f3636; 
+}
+.element.empat {
+    background-color: #dad8d8; 
+}
+
 
 .content{
     margin-bottom: 30px;
@@ -50,6 +72,7 @@ p{
     margin-bottom: 10px;
 }
 .container{
+
     width: 800px;
     margin: auto;
 }
@@ -61,5 +84,6 @@ footer{
     padding: 20px 0;
     width: 800px;
     margin: auto;
+    font-size: 15px;
 }
 
