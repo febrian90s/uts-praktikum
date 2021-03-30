@@ -44,20 +44,19 @@ h1{
     
 }
 .element{
-    width: 25%;
+    width: 22%;
     padding: 5px;
     box-sizing: border-box;
     
 }
 .element.satu {
-   background-color: #c74848; 
-
+   background-color: #dad8d8; 
 }
 .element.dua {
     background-color: #dad8d8; 
 }
 .element.tiga {
-    background-color: #5f3636; 
+    background-color: #dad8d8; 
 }
 .element.empat {
     background-color: #dad8d8; 
